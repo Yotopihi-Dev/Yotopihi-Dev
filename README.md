@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yotopihi!
+- 👀 I’m interested in game developement
+- 🌱 I’m currently learning/using godot
+- 💞️ I’m looking to collaborate on some people soon
+- 📫 How to reach me twitter, discord, tiktok, youtube, and itch.io.
